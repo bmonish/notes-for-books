@@ -1,6 +1,6 @@
 # notes-for-books
  A python script that let users take notes while reading books and save them locally.
- This used python's default sqlite3 package to create and manage the databases.
+ This script uses python's default sqlite3 package to create and manage the databases.
 
 <h1>Instructions:</h1>
 
